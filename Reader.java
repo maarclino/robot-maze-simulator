@@ -1,13 +1,3 @@
-
-/*
- * Reader.java
- * 
- * Copyright 2005-2012 Joaquim Laplana
- * 
- * This is free software, licensed under the GNU General Public License v3.
- * See http://www.gnu.org/licenses/gpl.html for more information.
- */
-
 package part2;
 import finchRobot.Finch;
 import java.io.BufferedReader;
