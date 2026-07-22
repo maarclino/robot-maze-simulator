@@ -1,14 +1,3 @@
-/*
- * Files.java
- * 
- * Copyright 2005-2012 Joaquim Laplana
- * Copyright 2011 Lázaro Márquez Pérez
- * Copyright 2012 Mònica Ramírez Arceda
- * 
- * This is free software, licensed under the GNU General Public License v3.
- * See http://www.gnu.org/licenses/gpl.html for more information.
- */
-
 package part2;
 
 import java.io.BufferedReader;
